@@ -1,0 +1,19 @@
+{
+    "method": "GET",
+    "route": "/customer/5871",
+    "response": {
+        "delay": 250,
+        "payload": {
+            "body": {
+                "id": 5871,
+                "name": "Example Customer",
+                "active": true
+            },
+            "respCode": 200,
+            "headers": {
+                "Content-Type": "application/json",
+                "X-Canned": "true"
+            }
+        }
+    }
+}
